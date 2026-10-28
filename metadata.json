@@ -1,0 +1,6 @@
+{
+  "name": "JNTUH UCEMB - College Management System",
+  "description": "Unified College Management System with Real-Time Notification System, Student & Staff Portal Login, AI Academic Co-Pilot, and Real-Time Attendance Analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
